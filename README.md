@@ -12,4 +12,4 @@ additionally, five seconds will be added to the memory timer on each correct gue
 values. This game does keep score, however, it could also be viewed as a level counter. Each correct rememberization is also a point/level and each increase in points/levels
 equals a one digit increase and a time increase. 
 
-Additionally, there is debug output in the form of a print line that can be uncommented to print the correct number before the input command on each iteration. 
+Additionally, there is debug output in the form of a print on line 64 that can be uncommented to print the correct number before the input command on each iteration. 
